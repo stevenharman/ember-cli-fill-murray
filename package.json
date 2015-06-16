@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-fill-murray",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "ember-cli-fill-murray-stevenharman",
+  "version": "0.1.1",
+  "description": "Fill in empty images with pictures of Bill Murray.",
   "directories": {
     "doc": "doc",
     "test": "tests"
